@@ -1,0 +1,2 @@
+# SendMarkUseEMGThroughSensor
+数据通过串口输入计算机，用java处理并分析数据后，通过并口发送mark信号。
